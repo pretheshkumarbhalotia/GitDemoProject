@@ -1,6 +1,7 @@
 public class TeamCity
 {
-    public boolean getStatus() {
+    public boolean getStatus()
+    {
         return true;
     }
 }
